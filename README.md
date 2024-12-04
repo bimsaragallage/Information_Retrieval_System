@@ -77,5 +77,5 @@ Below is a list of key files and their roles in the system:
   ```bash
   pip install dash pandas numpy requests beautifulsoup4 scikit-learn
 
+![Dash — Mozilla Firefox 12_4_2024 12_37_46 PM](https://github.com/user-attachments/assets/ba748f20-bb3a-4011-8b44-9a60352e6a25)
 
-  
